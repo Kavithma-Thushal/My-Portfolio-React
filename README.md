@@ -12,6 +12,11 @@ Explore, engage, and witness the convergence of skill and innovation firsthand. 
 
 Let's embark on this digital adventure together—where each click unveils a new chapter in the saga of innovation and creativity.
 
+## Teck Stack
+✅React</br>
+✅React Bootstrap</br>
+✅Material UI
+
 ## Features
 * Responsive Design: Ensures optimal viewing experience across various devices and screen sizes.
 * Dynamic Content: Content is dynamically rendered, making it easy to update and maintain.
