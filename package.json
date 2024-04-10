@@ -1,4 +1,9 @@
 {
+  "name": "my-portfolio-v2-react",
+  "description": "Showcase My Skills",
+  "version": "2.0.0",
+  "author": "Kavithma Thushal",
+  "license": "MIT",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",

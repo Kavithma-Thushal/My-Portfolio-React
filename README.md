@@ -1,6 +1,6 @@
 # My Portfolio V2 (React)
 
-### Welcome to My Portfolio V2 : Where Code Meets Creativity
+### Welcome to My Portfolio V2 : Where Code Meets Creativity ⭐
 
 Discover a meticulously crafted representation of my professional journey, skills, and achievements in the form of My Portfolio V2. This dynamic showcase encapsulates my best work, offering a comprehensive view of my capabilities and growth over time. It serves as a powerful tool to communicate my expertise, style, and potential value to prospective opportunities.
 
