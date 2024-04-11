@@ -2,9 +2,10 @@ import { Container, Navbar, Nav } from 'react-bootstrap';
 
 export default function NavigationBar() {
     return (
-        <Navbar expand="sm">
+        <Navbar expand="md" className='mt-4'>
             <Container>
-                <Navbar.Collapse>
+                <Navbar.Toggle aria-controls="basic-navbar-nav" />
+                <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="m-auto">
                         <Nav.Link href="">Home</Nav.Link>
                         <Nav.Link href="">About</Nav.Link>
