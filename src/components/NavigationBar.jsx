@@ -9,6 +9,7 @@ export default function NavigationBar() {
                         <Nav.Link href="">Home</Nav.Link>
                         <Nav.Link href="">About</Nav.Link>
                         <Nav.Link href="">Skills</Nav.Link>
+                        <Nav.Link href="">Certificates</Nav.Link>
                         <Nav.Link href="">Projects</Nav.Link>
                         <Nav.Link href="">Services</Nav.Link>
                         <Nav.Link href="">Contacts</Nav.Link>

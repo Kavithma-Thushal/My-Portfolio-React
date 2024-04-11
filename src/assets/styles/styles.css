@@ -1,7 +1,7 @@
 @import "~bootstrap-icons/font/bootstrap-icons.css";
 
 .navbar {
-    max-width: 700px;
+    max-width: 800px;
     border-radius: 30px;
     margin-top: 15px;
     margin-left: auto;
@@ -9,9 +9,14 @@
 }
 
 .nav-link {
+    color: white;
     margin-right: 30px;
 }
 
 .nav-link:last-child {
     margin-right: 0;
+}
+
+.nav-link:hover {
+    color: dodgerblue;
 }
