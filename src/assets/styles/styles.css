@@ -1,9 +1,13 @@
 @import "~bootstrap-icons/font/bootstrap-icons.css";
 
+body {
+    background: linear-gradient(to right, #222553, #000000);
+}
+
 .navbar {
     max-width: 800px;
     border-radius: 30px;
-    margin-top: 15px;
+    margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
 }
