@@ -1,10 +1,10 @@
 {
-  "name": "my-portfolio-v2-react",
+  "name": "my-portfolio-react",
   "description": "Showcase My Skills",
   "version": "2.0.0",
   "author": "Kavithma Thushal",
   "license": "MIT",
-  "homepage": "https://Kavithma-Thushal.github.io/My-Portfolio-V2-React",
+  "homepage": "https://Kavithma-Thushal.github.io/My-Portfolio-React",
   "dependencies": {
     "bootstrap": "^5.3.3",
     "bootstrap-icons": "^1.11.3",
