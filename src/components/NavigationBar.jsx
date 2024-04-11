@@ -2,7 +2,7 @@ import { Container, Navbar, Nav } from 'react-bootstrap';
 
 export default function NavigationBar() {
     return (
-        <Navbar expand="lg" className="bg-body-tertiary">
+        <Navbar expand="sm" bg="dark" data-bs-theme="dark">
             <Container>
                 <Navbar.Collapse>
                     <Nav className="me-auto">
