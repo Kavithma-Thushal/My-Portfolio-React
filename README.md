@@ -15,7 +15,6 @@ Let's embark on this digital adventure together—where each click unveils a new
 ## Teck Stack
 ✅React</br>
 ✅React Bootstrap</br>
-✅Material UI
 
 ## Features
 * Responsive Design: Ensures optimal viewing experience across various devices and screen sizes.
