@@ -1,1 +1,9 @@
 @import "~bootstrap-icons/font/bootstrap-icons.css";
+
+.navbar {
+    max-width: 700px;
+    border-radius: 30px;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
