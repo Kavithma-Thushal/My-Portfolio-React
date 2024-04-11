@@ -24,3 +24,15 @@ body {
 .nav-link:hover {
     color: dodgerblue;
 }
+
+.profile {
+    width: 400px;
+    margin-top: 45px;
+    margin-left: 200px;
+    border-radius: 200px;
+}
+
+.txtHome {
+    display: inline-block;
+    color: white;
+}
