@@ -5,7 +5,7 @@ export default function NavigationBar() {
         <Navbar expand="sm" bg="dark" variant="dark">
             <Container>
                 <Navbar.Collapse>
-                    <Nav className="me-auto">
+                    <Nav className="ms-auto">
                         <Nav.Link href="">Home</Nav.Link>
                         <Nav.Link href="">About</Nav.Link>
                         <Nav.Link href="">Skills</Nav.Link>
