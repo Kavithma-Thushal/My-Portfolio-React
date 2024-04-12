@@ -24,3 +24,13 @@ body {
 .nav-link:hover {
     color: dodgerblue !important;
 }
+
+.profile {
+    margin-top: 120px;
+    margin-left: 50px;
+}
+
+.txt-profile {
+    margin-top: 300px;
+    margin-left: 200px;
+}
