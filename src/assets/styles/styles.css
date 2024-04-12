@@ -60,16 +60,18 @@ body {
     align-items: center;
     margin-top: 130px;
     margin-left: -120px;
+    cursor: pointer;
 }
 
 .social-icons i {
     font-size: 2rem;
     margin: 0 10px;
     color: #376393;
+    transition: 0.4s;
 }
 
 .bi-linkedin:hover {
-    color: darkblue;
+    color: #0077b5;
 }
 
 .bi-twitter-x:hover {
@@ -80,14 +82,14 @@ body {
     color: black;
 }
 
-.bi-envelope-at-fill:hover {
-    color: red;
+.bi-youtube:hover {
+    color: #FF0000;
 }
 
 .bi-instagram:hover {
-    color: palevioletred;
+    color: #e4405f;
 }
 
 .bi-whatsapp:hover {
-    color: green;
+    color: #25D366;
 }

@@ -16,7 +16,7 @@ export default function Home() {
                         <h1><i class="bi bi-linkedin"></i></h1>
                         <h1><i class="bi bi-twitter-x"></i></h1>
                         <i class="bi bi-github"></i>
-                        <i class="bi bi-envelope-at-fill"></i>
+                        <i class="bi bi-youtube"></i>
                         <i class="bi bi-instagram"></i>
                         <i class="bi bi-whatsapp"></i>
                     </div>
