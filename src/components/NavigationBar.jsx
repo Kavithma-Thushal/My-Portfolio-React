@@ -2,7 +2,7 @@ import { Container, Navbar, Nav, NavDropdown } from 'react-bootstrap';
 
 export default function NavigationBar() {
     return (
-        <Navbar expand="md" className='mt-4'>
+        <Navbar expand="md" className='mt-4' fixed='top'>
             <Container>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
@@ -22,7 +22,7 @@ export default function NavigationBar() {
                             <NavDropdown.Divider />
                             <NavDropdown.Item href="">My Services</NavDropdown.Item>
                         </NavDropdown>
-                        <Nav.Link href="">Contacts</Nav.Link>
+                        <Nav.Link href="" className='nav-last-segment'>Contacts</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
             </Container>

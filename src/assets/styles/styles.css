@@ -4,10 +4,21 @@ body {
     background: linear-gradient(to right, #222553, #000000);
 }
 
+.navbar {
+    background-color: black;
+    width: 700px;
+    border-radius: 30px;
+    margin: auto;
+}
+
 .nav-link {
     color: white !important;
     margin-right: 40px;
     transition: color 0.3s;
+}
+
+.nav-last-segment {
+    margin-right: 0;
 }
 
 .nav-link:hover {
