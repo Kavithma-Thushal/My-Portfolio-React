@@ -53,3 +53,41 @@ body {
     color: rgb(4, 4, 38);
     border: none;
 }
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 130px;
+    margin-left: -120px;
+}
+
+.social-icons i {
+    font-size: 2rem;
+    margin: 0 10px;
+    color: #376393;
+}
+
+.bi-linkedin:hover {
+    color: darkblue;
+}
+
+.bi-twitter-x:hover {
+    color: black;
+}
+
+.bi-github:hover {
+    color: black;
+}
+
+.bi-envelope-at-fill:hover {
+    color: red;
+}
+
+.bi-instagram:hover {
+    color: palevioletred;
+}
+
+.bi-whatsapp:hover {
+    color: green;
+}

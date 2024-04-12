@@ -12,6 +12,14 @@ export default function Home() {
                     <h1 className="text-white">I'm Kavithma Thushal</h1>
                     <a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&random=false&width=280&height=40&lines=Software+Engineer" alt="Typing SVG" /></a><br />
                     <Button className='btn-profile'>HIRE ME</Button>
+                    <div className="social-icons">
+                        <h1><i class="bi bi-linkedin"></i></h1>
+                        <h1><i class="bi bi-twitter-x"></i></h1>
+                        <i class="bi bi-github"></i>
+                        <i class="bi bi-envelope-at-fill"></i>
+                        <i class="bi bi-instagram"></i>
+                        <i class="bi bi-whatsapp"></i>
+                    </div>
                 </Col>
             </Row>
         </Container>
