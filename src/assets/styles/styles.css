@@ -5,11 +5,11 @@ body {
 }
 
 .nav-link {
-    color: white;
+    color: white !important;
     margin-right: 40px;
     transition: color 0.3s;
 }
 
 .nav-link:hover {
-    color: dodgerblue;
+    color: dodgerblue !important;
 }
