@@ -11,7 +11,7 @@ export default function Home() {
                 <Col md={4} className='txt-profile'>
                     <h1 className="text-white">I'm Kavithma Thushal</h1>
                     <a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&random=false&width=280&height=40&lines=Software+Engineer" alt="Typing SVG" /></a><br />
-                    <Button variant="primary">Hire Me</Button>
+                    <Button className='btn-profile'>HIRE ME</Button>
                 </Col>
             </Row>
         </Container>
