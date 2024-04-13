@@ -103,10 +103,8 @@ body {
 .project-border {
     width: 90%;
     height: 500px;
-    background-color: dodgerblue;
-    margin: 65px;
+    margin: 60px auto;
     border-radius: 10px;
-    box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
-    background: rgba(255, 255, 255, 0.1);
+    background: rgba(0, 0, 0, 0.207);
     border: 2px solid rgba(31, 215, 232, 0.873);
 }
