@@ -3,7 +3,7 @@
   "description": "Showcase My Skills",
   "version": "2.0.0",
   "author": "Kavithma Thushal",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "dependencies": {
     "@iconscout/react-unicons": "^2.0.2",
     "@testing-library/jest-dom": "^5.16.5",
