@@ -23,7 +23,7 @@ creativity.
 ## Teck Stack
 
 ✅React</br>
-✅React Bootstrap</br>
+✅Tailwind CSS</br>
 
 ## Features
 
@@ -43,7 +43,7 @@ creativity.
 
 <div align="center">
 
-#### This project is licensed under the [MIT License](LICENSE)
+#### This project is licensed under the [Apache License](LICENSE)
 
 #### © 2024 All Right Reserved, Designed By [Kavithma Thushal](https://github.com/Kavithma-Thushal)
 
