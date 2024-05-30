@@ -45,6 +45,6 @@ creativity.
 
 #### This project is licensed under the [Apache License](LICENSE)
 
-#### © 2024 All Right Reserved, Designed By [Kavithma Thushal](https://github.com/Kavithma-Thushal)
+#### © 2024 All Right Reserved. Designed By [Kavithma Thushal](https://github.com/Kavithma-Thushal)
 
 </div>
