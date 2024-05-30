@@ -3,17 +3,15 @@ export function Navbar() {
         <nav className="bg-darkBlue text-white p-5">
             <div className="container mx-auto flex justify-between items-center">
                 <a href="https://github.com/Kavithma-Thushal" target={"_blank"}>
-                    <div className="text-lg font-semibold">My Portfolio</div>
+                    <div className="text-lg font-semibold">PORTFO<span className={"text-neonBlue"}>LIO</span></div>
                 </a>
                 <div className="space-x-8">
-                    <a href="#home" className="hover:text-lightBlue">Home</a>
-                    <a href="#about" className="hover:text-lightBlue">About</a>
-                    <a href="#skills" className="hover:text-lightBlue">Skills</a>
-                    <a href="#certificates" className="hover:text-lightBlue">Certificates</a>
-                    <a href="#projects" className="hover:text-lightBlue">Projects</a>
-                    <a href="#services" className="hover:text-lightBlue">Services</a>
-                    <a href="#pricing" className="hover:text-lightBlue">Pricing</a>
-                    <a href="#contacts" className="hover:text-lightBlue">Contacts</a>
+                    <a href="#home" className="hover:text-neonBlue transition-colors duration-300">Home</a>
+                    <a href="#about" className="hover:text-neonBlue transition-colors duration-300">About</a>
+                    <a href="#skills" className="hover:text-neonBlue transition-colors duration-300">Skills</a>
+                    <a href="#projects" className="hover:text-neonBlue transition-colors duration-300">Projects</a>
+                    <a href="#services" className="hover:text-neonBlue transition-colors duration-300">Services</a>
+                    <a href="#contacts" className="hover:text-neonBlue transition-colors duration-300">Contacts</a>
                 </div>
             </div>
         </nav>

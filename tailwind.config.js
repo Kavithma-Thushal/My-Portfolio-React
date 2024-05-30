@@ -5,12 +5,12 @@ module.exports = {
         extend: {
             backgroundColor: {
                 'darkBlue': '#000a1f',
-                'lightBlue': '#00c7ff',
+                'neonBlue': '#00c7ff',
             },
             textColor: {
                 'darkBlue': '#000a1f',
-                'lightBlue': '#00c7ff',
-            },
+                'neonBlue': '#00c7ff',
+            }
         },
     },
     plugins: [],
