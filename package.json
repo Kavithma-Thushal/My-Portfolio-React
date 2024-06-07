@@ -1,10 +1,10 @@
 {
   "name": "my-portfolio-react",
-  "description": "My Personal Portfolio Using React",
   "version": "2.0.0",
   "author": "Kavithma Thushal",
   "license": "Apache-2.0",
   "private": true,
+  "description": "My Personal Portfolio Using React",
   "homepage": "https://Kavithma-Thushal.github.io/My-Portfolio-React",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
