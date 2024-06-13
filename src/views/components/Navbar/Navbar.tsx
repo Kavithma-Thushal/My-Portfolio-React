@@ -7,12 +7,12 @@ export function Navbar() {
             <div className="container mx-auto flex justify-between items-center">
                 <a href="https://github.com/Kavithma-Thushal/My-Portfolio-React.git" target="_blank">
                     <div className="flex items-center">
-                        <img src={logo} className="Nav-logo mr-2" alt="Nav-logo"/>
-                        <div className="text-lg font-bold">P O R T F O <span className="text-neonBlue">L I O</span>
+                        <img src={logo} className="Nav-logo ml-5 mr-5 mt-2" alt="Nav-logo"/>
+                        <div className="text-2xl font-bold">P O R T F O <span className="text-neonBlue">L I O</span>
                         </div>
                     </div>
                 </a>
-                <div className="space-x-8 text-sm font-semibold">
+                <div className="space-x-10 mr-8 text-1xl font-semibold">
                     <a href="/home" className="hover:text-neonBlue transition-colors duration-300">HOME</a>
                     <a href="/about" className="hover:text-neonBlue transition-colors duration-300">ABOUT</a>
                     <a href="/skills" className="hover:text-neonBlue transition-colors duration-300">SKILLS</a>
