@@ -8,10 +8,10 @@ import {Contacts} from "../../pages/Contacts/Contacts";
 export function Content() {
     return (
         <div>
-            <Home/>
+            {/*<Home/>*/}
             {/*<About/>*/}
             {/*<Skills/>*/}
-            {/*<Projects/>*/}
+            <Projects/>
             {/*<Services/>*/}
             {/*<Contacts/>*/}
         </div>
