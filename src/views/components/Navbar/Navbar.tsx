@@ -3,7 +3,7 @@ import "./Navbar.css";
 
 export function Navbar() {
     return (
-        <nav className="bg-darkBlue text-white p-2 pr-7">
+        <nav className="bg-darkBlue text-white p-2 pr-7 fixed w-full">
             <div className="container mx-auto flex justify-between items-center">
                 <a href="https://github.com/Kavithma-Thushal/My-Portfolio-React.git" target="_blank">
                     <div className="flex items-center">

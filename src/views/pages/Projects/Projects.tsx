@@ -11,7 +11,7 @@ import react from "../../../assets/images/projects/languages/react.png";
 export function Projects() {
     return (
         <div className="bg-darkBlue text-white p-10">
-            <h1 className="text-4xl font-bold mb-10 mt-[-25px] text-center">My Projects</h1>
+            <h1 className="text-4xl font-bold mb-10 mt-[80px] text-center">My Projects</h1>
             <div className="flex flex-wrap justify-center gap-5">
                 <Card title="Java" img={java}/>
                 <Card title="JavaFX" img={javafx}/>
