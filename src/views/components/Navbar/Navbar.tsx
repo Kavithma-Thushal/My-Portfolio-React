@@ -13,12 +13,12 @@ export function Navbar() {
                     </div>
                 </a>
                 <div className="space-x-8 text-sm font-semibold">
-                    <a href="home" className="hover:text-neonBlue transition-colors duration-300">HOME</a>
-                    <a href="about" className="hover:text-neonBlue transition-colors duration-300">ABOUT</a>
-                    <a href="skills" className="hover:text-neonBlue transition-colors duration-300">SKILLS</a>
-                    <a href="projects" className="hover:text-neonBlue transition-colors duration-300">PROJECTS</a>
-                    <a href="services" className="hover:text-neonBlue transition-colors duration-300">SERVICES</a>
-                    <a href="contacts" className="hover:text-neonBlue transition-colors duration-300">CONTACTS</a>
+                    <a href="/home" className="hover:text-neonBlue transition-colors duration-300">HOME</a>
+                    <a href="/about" className="hover:text-neonBlue transition-colors duration-300">ABOUT</a>
+                    <a href="/skills" className="hover:text-neonBlue transition-colors duration-300">SKILLS</a>
+                    <a href="/projects" className="hover:text-neonBlue transition-colors duration-300">PROJECTS</a>
+                    <a href="/services" className="hover:text-neonBlue transition-colors duration-300">SERVICES</a>
+                    <a href="/contacts" className="hover:text-neonBlue transition-colors duration-300">CONTACTS</a>
                 </div>
             </div>
         </nav>
