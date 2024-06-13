@@ -20,7 +20,7 @@ of technology, leaving a trail of ingenuity and excellence behind.
 Let's embark on this digital adventure together—where each click unveils a new chapter in the saga of innovation and
 creativity.
 
-## Teck Stack
+## Tech Stack
 
 ✅React JS</br>
 ✅Tailwind CSS</br>
