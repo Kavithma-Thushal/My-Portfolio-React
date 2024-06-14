@@ -1,7 +1,10 @@
 {
-  "name": "demo",
+  "name": "my-portfolio-react",
+  "version": "2.0.0",
+  "author": "Kavithma Thushal",
+  "license": "Apache-2.0",
   "private": true,
-  "version": "0.0.0",
+  "description": "Discover My Personal Portfolio Using React",
   "type": "module",
   "scripts": {
     "dev": "vite",
